@@ -1,4 +1,4 @@
-package qaclick;
+package qaclick;;
 
 import java.util.concurrent.TimeUnit;
 
